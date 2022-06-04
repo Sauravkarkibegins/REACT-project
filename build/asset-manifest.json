@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/materialdesign/static/css/main.893b1af8.chunk.css",
+    "main.js": "/materialdesign/static/js/main.b0d02817.chunk.js",
+    "main.js.map": "/materialdesign/static/js/main.b0d02817.chunk.js.map",
+    "runtime-main.js": "/materialdesign/static/js/runtime-main.bf61d8af.js",
+    "runtime-main.js.map": "/materialdesign/static/js/runtime-main.bf61d8af.js.map",
+    "static/css/2.d8e067f9.chunk.css": "/materialdesign/static/css/2.d8e067f9.chunk.css",
+    "static/js/2.baac68d1.chunk.js": "/materialdesign/static/js/2.baac68d1.chunk.js",
+    "static/js/2.baac68d1.chunk.js.map": "/materialdesign/static/js/2.baac68d1.chunk.js.map",
+    "index.html": "/materialdesign/index.html",
+    "static/css/2.d8e067f9.chunk.css.map": "/materialdesign/static/css/2.d8e067f9.chunk.css.map",
+    "static/css/main.893b1af8.chunk.css.map": "/materialdesign/static/css/main.893b1af8.chunk.css.map",
+    "static/js/2.baac68d1.chunk.js.LICENSE.txt": "/materialdesign/static/js/2.baac68d1.chunk.js.LICENSE.txt",
+    "static/media/2.bb0f9ac4.svg": "/materialdesign/static/media/2.bb0f9ac4.svg",
+    "static/media/3.21df2c5e.svg": "/materialdesign/static/media/3.21df2c5e.svg",
+    "static/media/code.10d61fce.svg": "/materialdesign/static/media/code.10d61fce.svg",
+    "static/media/video.d48e2181.mp4": "/materialdesign/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf61d8af.js",
+    "static/css/2.d8e067f9.chunk.css",
+    "static/js/2.baac68d1.chunk.js",
+    "static/css/main.893b1af8.chunk.css",
+    "static/js/main.b0d02817.chunk.js"
+  ]
+}
